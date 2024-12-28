@@ -56,7 +56,7 @@ Setelah semua dependensi terinstal, jalankan aplikasi menggunakan salah satu car
 
 - **Menggunakan Yarn:**
   ```bash
-  yarn start
+  yarn dev
   ```
 
 - **Menggunakan npm:**
