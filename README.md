@@ -31,8 +31,6 @@ Clone repositori ini ke direktori lokal Anda:
 git clone https://github.com/alfinhimawan/QR-Generator-App.git
 ```
 
-Ganti `username` dengan nama pengguna GitHub Anda.
-
 ### 2. Masuk ke direktori proyek
 ```bash
 cd QR-Generator-App
